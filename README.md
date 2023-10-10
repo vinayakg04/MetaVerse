@@ -26,24 +26,17 @@ Metaversus is where your wildest dreams come to life. Whether you crave the thri
 
 3. Open the folder containing the cloned repository
 
-4.Clone the repository Rental-Hub
-Go inside Rental-Hub/
+4.Clone the repository Metaversus
+
 
 ```sh
 npm install 
 ```
 
-Go inside Rental-Hub/frontend
-
 ```sh
 npm run dev
 ```
 
-To start the project on localhost Go inside Rental-Hub/
-
-```sh
-nodemon
-```
 
 
 ## Screenshots
@@ -52,37 +45,29 @@ nodemon
 
 ![1](https://github.com/vinayakg04/MetaVerse/blob/master/public/100.PNG)
 
-#### Signup Page
+
 
 ![2](https://github.com/vinayakg04/MetaVerse/blob/master/public/101.PNG)
 
-#### User Home Page
-
-![3](https://github.com/vinayakg04/MetaVerse/blob/master/public/102.PNG)
-
-#### User Profile Page
 
 ![4](https://github.com/vinayakg04/MetaVerse/blob/master/public/103.PNG)
 
-#### Product Details Page
+
 
 ![5](https://github.com/vinayakg04/MetaVerse/blob/master/public/104.PNG)
 
-#### About Us Page
+
 
 ![7](https://github.com/vinayakg04/MetaVerse/blob/master/public/105.PNG)
 
-#### Admin Dashboard
 
 ![6](https://github.com/vinayakg04/MetaVerse/blob/master/public/106.PNG)
 
-#### Admin All Orders Page
 
 ![7](https://github.com/vinayakg04/MetaVerse/blob/master/public/107.PNG)
 
-#### Admin Products Page
 
-![7](https://github.com/vinayakg04/MetaVerse/blob/master/public/100.PNG)
+
 
 
 
