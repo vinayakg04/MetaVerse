@@ -1,34 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1>METAVERSUS</h1>
+</div>
+
+"Metaversus: Explore Limitless Realms in Virtual Reality
+Dive into a boundless universe of virtual reality where your imagination knows no bounds. Metaversus offers a gateway to infinite worlds, where users can craft and immerse themselves in any reality they desire."
+
+
+## What does it do?
+Welcome to Metaversus, your ultimate portal to the boundless realms of virtual reality! Here, we empower you to step beyond the confines of the physical world and immerse yourself in the limitless possibilities of the metaverse.
+
+<ul>
+
+<li>
+Metaversus is where your wildest dreams come to life. Whether you crave the thrill of exploring alien landscapes, wish to relax on a tranquil digital beach, or desire to conquer epic quests in fantastical realms, we've got you covered. With our state-of-the-art VR technology, you can not only experience these worlds but also shape them to your liking.
+
+
+</ul>
 
 ## Getting Started
 
-First, run the development server:
+1. Fork the repository
+2. Clone the repository
 
-```bash
-npm run dev
-# or
-yarn dev
+
+
+3. Open the folder containing the cloned repository
+
+4.Clone the repository Rental-Hub
+Go inside Rental-Hub/
+
+```sh
+npm install 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go inside Rental-Hub/frontend
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+To start the project on localhost Go inside Rental-Hub/
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+nodemon
+```
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Landing Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![1](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4011.PNG)
 
-## Deploy on Vercel
+#### Signup Page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![2](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4016.PNG)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### User Home Page
+
+![3](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4027.PNG)
+
+#### User Profile Page
+
+![4](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4017.PNG)
+
+#### Product Details Page
+
+![5](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4019.PNG)
+
+#### About Us Page
+
+![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4018.PNG)
+
+#### Admin Dashboard
+
+![6](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4023.PNG)
+
+#### Admin All Orders Page
+
+![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
+
+#### Admin Products Page
+
+![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4026.PNG)
+
+#### Admin All Orders
+
+![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
+
+
+
